@@ -1,0 +1,32 @@
+─────────────────────────────────────────────────────────────────────────
+ CARBON FOOTPRINT REPORT — 2026-05-10 11:25:21
+─────────────────────────────────────────────────────────────────────────
+
+#1   [Edificio] Nombre: Torre Colpatria           | Pisos: 48 | Área: 28000,0 m²
+     Huella de Carbono: 1.181.496,00 kgCO₂/año
+
+#2   [Edificio] Nombre: Residencias El Prado      | Pisos:  6 | Área:  3200,0 m²
+     Huella de Carbono: 72.620,16 kgCO₂/año
+
+#3   [Auto]     2021 Toyota     Corolla      | Combustible: Gasolina                  | 20000 km/año
+     Huella de Carbono: 3.422,22 kgCO₂/año
+
+#4   [Auto]     2019 Mazda      CX-5         | Combustible: Diésel                    | 30000 km/año
+     Huella de Carbono: 5.025,00 kgCO₂/año
+
+#5   [Auto]     2022 Chevrolet  Spark GT     | Combustible: Gas Natural Vehicular     | 15000 km/año
+     Huella de Carbono: 2.625,00 kgCO₂/año
+
+#6   [Bicicleta] Marca: Trek         | Tipo: Ruta / Carretera     | 4000 km/año
+     Huella de Carbono: 22,40 kgCO₂/año
+
+#7   [Bicicleta] Marca: Specialized  | Tipo: Montaña (MTB)        | 2500 km/año
+     Huella de Carbono: 18,00 kgCO₂/año
+
+#8   [Bicicleta] Marca: Brompton     | Tipo: Plegable             | 1800 km/año
+     Huella de Carbono: 12,00 kgCO₂/año
+
+─────────────────────────────────────────────────────────────────────────
+ TOTAL OBJETOS : 8
+ HUELLA TOTAL  : 1.265.240,78 kgCO₂/año
+─────────────────────────────────────────────────────────────────────────

@@ -1,6 +1,4 @@
 # Carbon Footprint App — Java
-### Tarea Universitaria · Programación Orientada a Objetos
-
 ---
 
 ## Descripción

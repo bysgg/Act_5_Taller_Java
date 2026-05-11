@@ -21,8 +21,6 @@ import co.edu.carbon.interfaces.CarbonFootprint;
  * Atributos propios: marca, modelo, año de fabricación, tipo de
  * combustible, eficiencia (km/L) y kilómetros anuales recorridos.
  *
- * @author Carbon Footprint App
- * @version 1.0
  */
 public class Car implements CarbonFootprint {
 

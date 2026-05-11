@@ -29,8 +29,7 @@ import java.util.List;
  *   5. Persistir el reporte en archivo de texto
  *   6. Verificar la lectura del archivo
  *
- * @author Carbon Footprint App
- * @version 1.0
+ * @author Sebastian Gutierrez Guayacundo
  */
 public class Main {
 

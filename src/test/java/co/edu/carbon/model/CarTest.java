@@ -20,8 +20,6 @@ import static org.junit.jupiter.api.Assertions.*;
  *  - Casos borde (0 km/año)
  *  - Getters y métodos de presentación
  *
- * @author Carbon Footprint App
- * @version 1.0
  */
 @DisplayName("Car — Pruebas Unitarias")
 class CarTest {

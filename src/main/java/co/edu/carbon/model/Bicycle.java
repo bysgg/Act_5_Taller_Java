@@ -21,8 +21,6 @@ import co.edu.carbon.interfaces.CarbonFootprint;
  * Atributos propios: marca, tipo (urbana, MTB, ruta), peso (kg),
  * kilómetros anuales y vida útil esperada (años).
  *
- * @author Carbon Footprint App
- * @version 1.0
  */
 public class Bicycle implements CarbonFootprint {
 

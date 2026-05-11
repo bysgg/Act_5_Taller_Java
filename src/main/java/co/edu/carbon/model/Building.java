@@ -15,8 +15,6 @@ import co.edu.carbon.interfaces.CarbonFootprint;
  * Atributos propios: nombre, número de pisos, área construida (m²),
  * consumo mensual de gas (m³) y consumo mensual de electricidad (kWh).
  *
- * @author Carbon Footprint App
- * @version 1.0
  */
 public class Building implements CarbonFootprint {
 

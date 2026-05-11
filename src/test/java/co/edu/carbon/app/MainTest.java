@@ -18,8 +18,6 @@ import static org.junit.jupiter.api.Assertions.*;
  * Verifica que el método buildEntities() construya correctamente la lista
  * de objetos y que el loop polimórfico opere sobre ella sin errores.
  *
- * @author Carbon Footprint App
- * @version 1.0
  */
 @DisplayName("Main — Pruebas de Integración")
 class MainTest {

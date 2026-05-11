@@ -10,8 +10,6 @@ package co.edu.carbon.interfaces;
  * pequeña y específica; cada clase la implementa de forma independiente
  * sin depender de métodos que no necesita.
  *
- * @author Carbon Footprint App
- * @version 1.0
  */
 public interface CarbonFootprint {
 

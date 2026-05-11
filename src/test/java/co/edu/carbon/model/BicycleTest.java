@@ -20,8 +20,6 @@ import static org.junit.jupiter.api.Assertions.*;
  *  - Relación huella vs kilómetros
  *  - Getters y métodos de presentación
  *
- * @author Carbon Footprint App
- * @version 1.0
  */
 @DisplayName("Bicycle — Pruebas Unitarias")
 class BicycleTest {

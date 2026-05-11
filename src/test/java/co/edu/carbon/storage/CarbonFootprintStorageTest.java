@@ -30,8 +30,6 @@ import static org.junit.jupiter.api.Assertions.*;
  *  - Polimorfismo sobre ArrayList&lt;CarbonFootprint&gt;
  *  - Comportamiento con lista vacía
  *
- * @author Carbon Footprint App
- * @version 1.0
  */
 @DisplayName("CarbonFootprintStorage — Pruebas Unitarias")
 class CarbonFootprintStorageTest {

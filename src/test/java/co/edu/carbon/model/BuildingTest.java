@@ -16,8 +16,6 @@ import static org.junit.jupiter.api.Assertions.*;
  *  - Getters y métodos de presentación
  *  - Validación de argumentos (defensiva)
  *
- * @author Carbon Footprint App
- * @version 1.0
  */
 @DisplayName("Building — Pruebas Unitarias")
 class BuildingTest {

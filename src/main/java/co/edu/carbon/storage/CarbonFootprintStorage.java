@@ -32,8 +32,6 @@ import java.util.List;
  * HUELLA TOTAL:  15 876,17 kgCO2/año
  * ─────────────────────────────────────────────────────────────
  *
- * @author Carbon Footprint App
- * @version 1.0
  */
 public class CarbonFootprintStorage {
 
